@@ -97,7 +97,7 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Achromobacter xylosoxidans -*** *Charlotte Michel*, Lucie Amoureux, Miglė Gabrielaitė
 
-***Aeromonas -*** *Po-Yu Liu*, João PedroFurlan
+***Aeromonas -*** *Po-Yu Liu*, João PedroFurlan, Hsien-Po Huang, Po-Hsiui
 
 ***Shewanella -*** *Po-Yu Liu*, João PedroFurlan, Ting-Kuang Yeh
 
