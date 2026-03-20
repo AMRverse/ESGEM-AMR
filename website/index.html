@@ -43,9 +43,13 @@
   fetch(url)
     .then(res => res.text())
     .then(md => {
-        md = md.replace(/^#\s+.*$/m, "");
-        document.getElementById("content").innerHTML = marked.parse(md);
-    });
+      const html = marked.parse(md);
+      document.getElementById("content").innerHTML = html;
+
+      // Remove first H1 element from rendered HTML
+      const h1 = document.querySelector("#content h1");
+      if (h1) h1.remove();
+    })
     .catch(err => {
       document.getElementById("content").innerHTML = "Error loading content.";
       console.error(err);
