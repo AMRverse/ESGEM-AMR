@@ -9,10 +9,10 @@ The goal of AMRrules is to develop interpretive standards for AMR genotypes, aki
 An overview of the concept, with the first release of AMRrules software and rules for ESKAPEE organisms, is available in the [AMRrules](https://amrrules.org) repository. 
 
 We have partnered with [ESGEM, the ESCMID Study Group on Epidemiological Markers](https://www.escmid.org/esgem/), to form an ESGEM-AMR Working Group to curate organism-specific rule sets. 
-* Slides from the introductory webinars held May 14/15 are available [here](https://github.com/AMRverse/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Webinar.pdf).
-* A detailed description of the Working Group and the overall AMRrules approach is available [here](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Working%20Group.pdf), including scope, plans and timeline.
-* Technical guidance for curation of rule sets is available [here](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf), this is a work in progress and will be refined as we go.
-* The rule specification template is [here (v1,0)](https://spec.amrrules.org).
+* Slides from the introductory webinars held May 14/15 are available [here](https://github.com/AMRverse/ESGEM-AMR/blob/main/slides/ESGEM-AMR%20Webinar.pdf).
+* A detailed description of the Working Group and the overall AMRrules approach is available [here](https://github.com/AMRverse/ESGEM-AMR/blob/main/ESGEM-AMR%20Working%20Group.pdf), including scope, plans and timeline.
+* Technical guidance for curation of rule sets is available [here](https://github.com/AMRverse/ESGEM-AMR/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf), this is a work in progress and will be refined as we go.
+* The rule specification template is [here (v1.0)](https://spec.amrrules.org).
 * Validated rules are available in the [AMRrules](https://amrrules.org) repository, together with a software package to apply these rules to interpret AMRFinderPlus output.
 
 ## Membership
@@ -36,7 +36,7 @@ We are keen to partner with other allied organisations and initiatives, please [
 ## Member Resources
 
 * AMRrules Spec - v1.0 [[google sheet]](https://spec.amrrules.org)
-* AMRrules Technical Guidance - v1.6 [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf)
+* AMRrules Technical Guidance - v1.6 [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf)
 * AMRgen R package for analysing matched genotype/phenotype data [[AMRgen repo]](https://amrrgen.org)
 * Code and tools for accessing public AMRFinderPlus + AST data [[datacuration repo]](https://github.com/interpretAMR/datacuration)
 * CARD/Antimicrobial Resistance Ontology (ARO): [[browser]](https://card.mcmaster.ca/)
