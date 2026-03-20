@@ -55,7 +55,7 @@ We are keen to partner with other allied organisations and initiatives, please [
 
 ### Automatic validation of rules
 
-Before submitting rules for review, they should be first checked using the Python [rulevalidator](https://github.com/AMRverse/AMRrulevalidator).
+Before submitting rules for review, they should be first checked using the Python [rulevalidator](https://validate.amrrules.org).
 
 ## Member List (by subgroup)
 
