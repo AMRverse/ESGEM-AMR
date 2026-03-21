@@ -13,13 +13,13 @@ We have partnered with [ESGEM, the ESCMID Study Group on Epidemiological Markers
 * A detailed description of the Working Group and the overall AMRrules approach is available [here](https://github.com/AMRverse/ESGEM-AMR/blob/main/ESGEM-AMR%20Working%20Group.pdf), including scope, plans and timeline.
 * Technical guidance for curation of rule sets is available [here](https://github.com/AMRverse/ESGEM-AMR/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf), this is a work in progress and will be refined as we go.
 * The rule specification template is [here (v1)](https://spec.amrrules.org).
-* Validated rules are available in the [AMRrules](https://amrrules.org) repository, together with a software package to apply these rules to interpret AMRFinderPlus output.
+* Validated rules are available in the [AMRrules Browser](https://browse.amrrules.org) [AMRrules], and in the [AMRrules](https://amrrules.org) repository together with a software package to apply these rules to interpret AMRFinderPlus output.
 
 ## Membership
 
 The convenors of the ESGEM-AMR Working Group are Kat Holt (LSHTM), Natacha Couto (ESGEM Chair), and Jane Hawkey (Monash, leading bioinformatics development).
 
-A call for members was launched at the ESGEM General Meeting on April 29, 2024 and closed June 2. Over 120 applications were received and most of these have been invited to join organism-focused subgroups. We have now grown to 175 members (listed [below](#member-list-by-subgroup)). 
+A call for members was launched at the ESGEM General Meeting on April 29, 2024 and closed June 2. Over 120 applications were received and most of these have been invited to join organism-focused subgroups. We have now grown to nearly 200 members (listed [below](#member-list-by-subgroup)). 
 
 Additional requests to join ESGEM-AMR will be considered periodically. In the meantime you may register your interest and let us know what organism/s you have expertise in, using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeH96VlioxLKarZOLMqD-f1fLnb9WYOHYz4tZ9NtQzpHrKyzw/viewform?usp=sf_link).
 
@@ -31,7 +31,7 @@ Additional requests to join ESGEM-AMR will be considered periodically. In the me
 
 We are partnering with EUCAST to ensure alignment of the AMRrules approach with the [EUCAST Subcommittee on WGS and Phenotypic AST](https://www.eucast.org/organization/subcommittees/wgs_and_phenotypic_testing) (including their [first report (2017)](https://doi.org/10.1016/j.cmi.2016.11.012) and ongoing updates), as well as important EUCAST concepts and guidance including [Expected Phenotypes](https://www.eucast.org/expert_rules_and_expected_phenotypes/expected_phenotypes), [Expert Rules](https://www.eucast.org/expert_rules_and_expected_phenotypes), [wildtype distributions and ECOFFS](https://mic.eucast.org/), and [Resistance Mechanisms](https://www.eucast.org/resistance_mechanisms).
 
-We are keen to partner with other allied organisations and initiatives, please [get in touch](https://www.escmid.org/contact/) if you'd like to discuss.
+We are keen to partner with other allied organisations and initiatives, please get in touch if you'd like to discuss.
 
 ## Member Resources
 
