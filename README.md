@@ -1,4 +1,4 @@
-# ESGEM-AMR Working Group
+## ESGEM-AMR Working Group
 
 <img src="AMRrules_logo.png" width="200" align="right">
 
