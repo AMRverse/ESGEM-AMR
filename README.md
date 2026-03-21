@@ -77,7 +77,7 @@ Before submitting rules for review, they should be first checked using the Pytho
 
 ***Salmonella enterica -*** *Kristy Horan/Pieter-Jan Ceyssans*, Anthony Smith, Gültekin Ünal, Abdurrahman Hassan Jibril, Manal AbuOun, Jelalu Kemal Birmeka, Varun Shamanna, Assaf Rokney, Malgorzata Ligowska-Marzeta, Megan Carey, Regina Russanova, Tom Koritnik, Zoe Dyson, Leonor Silveira
 
-***Neisseria gonorrhoeae -*** *Leonor Sanchez Buso*, Yonatan Grad, Sheeba Manoharan-Basil, Martin McHugh, Tatum Mortimer, Anna Roditscheff, Faina Wehrli, Adam Witney, Raffael Frei, Daniel Golparian, Unemo Magnus
+***Neisseria gonorrhoeae -*** *Leonor Sanchez Buso*, Yonatan Grad, Sheeba Manoharan-Basil, Martin McHugh, Tatum Mortimer, Anna Roditscheff, Faina Wehrli, Adam Witney, Raffael Frei, Daniel Golparian, Magnus Unemo
 
 ***Mycobacterium tuberculosis -*** *Leonid Chindelevitch*, Iñaki Comas, Philip Fowler, Kristy Horan, Priyanka Khopkar-Kale, Mariana López, Conor Meehan, Adam Witney, Brian Alcock, Francesca Saluzzo, João Perdigão, Dylan Adlard, Margo Diricks
 
