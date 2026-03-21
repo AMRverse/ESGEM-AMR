@@ -35,9 +35,13 @@ We are keen to partner with other allied organisations and initiatives, please g
 
 ## Member Resources
 
-* AMRrules Spec - v1.0 [[google sheet]](https://spec.amrrules.org)
+* AMRrules Specification & Syntax - v1.0 [[docs]](https://spec.amrrules.org)
 * AMRrules Technical Guidance - v1.6 [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf)
+* AMRrules Browser [[website]](https://browse.amrrules.org)
+* AMRrules Software pacakge [[docs]](https://amrrules.org)
+* AMRrules Documentation [[docs]](https://docs.amrrules.org)
 * AMRgen R package for analysing matched genotype/phenotype data [[AMRgen repo]](https://amrrgen.org)
+* AMRrulemakeR R package for automating rule generation using AMRgen analyses [[AMRrulemakeR repo]](https://make.amrrules.org)
 * Code and tools for accessing public AMRFinderPlus + AST data [[datacuration repo]](https://github.com/interpretAMR/datacuration)
 * CARD/Antimicrobial Resistance Ontology (ARO): [[browser]](https://card.mcmaster.ca/)
 * Variant specification: [HGVS](https://hgvs-nomenclature.org/stable/)
