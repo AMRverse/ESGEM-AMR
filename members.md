@@ -9,7 +9,7 @@ toc: true
 ## Members by subgroup
 {:toc}
 
-### Data & Tools 
+## Data & Tools 
 **Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Michael Feldgarden, Brody Duncan, Kristy Horan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Mackenzie Wilke, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, Derek Sarovich, John Rossen, Silvia Argimon, Charlene Rodrigues, Rolf Kaas, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad
 
 ### *Enterococcus*
@@ -91,10 +91,10 @@ toc: true
 **Po-Yu Liu**, João PedroFurlan, Hsien-Po Huang, Po-Hsiui
 
 ### *Burkholderia cepacia complex*
-*Charlotte Michel*, David Wareham
+**Charlotte Michel**, David Wareham
 
 ### *Listeria*
-*Jelalu Kemal Birmeka*, Basil Britto Xavier, Marc Lecuit, Alexandra Moura
+**Jelalu Kemal Birmeka**, Basil Britto Xavier, Marc Lecuit, Alexandra Moura
 
 ### *Corynebacterium diphtheriae*
 **Sylvain Brisse**, Louise Teixeira Cerdeira, Adrian Egli, Teresa Ribeiro
@@ -103,13 +103,13 @@ toc: true
 **Mike Beeton**, Anna	Roditscheff, Sabine Pereyre, Patrick Meyer Sauteur, Nick Duggett, Jørgen Skov Jensen
 
 ### *Treponema* 
-Brian Alcock
+**Brian Alcock**
 
 ### *Vibrio*
-Assaf Rokney
+**Assaf Rokney**
 
 ### *Chryseobacterium indologenes*
-Rietie Venter
+**Rietie Venter**
 
 ### *Brucella, Edwardsiella, Pasteurella* 
-Jelalu Kemal Birmeka
+**Jelalu Kemal Birmeka**
