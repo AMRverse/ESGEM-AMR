@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Member Resources
-toc: true
 ---
 
 # Member Resources
@@ -25,8 +24,7 @@ toc: true
 * NCBI AST data: [[browser]](https://www.ncbi.nlm.nih.gov/pathogens/ast/)
 * NCBI AST data submission: [[info]](https://www.ncbi.nlm.nih.gov/pathogens/submit-data/) [[submission format]](https://www.ncbi.nlm.nih.gov/biosample/docs/antibiogram/)
 * NCBI Taxonomy: [[browser]](https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/)
-* Introductory webinar slides: [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/slides/ESGEM-AMR%20Webinar.pdf)
-* Kickoff meeting slides: [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/slides/ESGEM-AMR%20Kickoff%20slides.pdf)
+* Meeting slides: [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/slides/)
 
 ### Automatic validation of rules
 

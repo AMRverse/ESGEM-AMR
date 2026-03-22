@@ -4,9 +4,7 @@ title: Members
 toc: true
 ---
 
-# ESGEM-AMR Members
-
-## Members by subgroup
+# Members by subgroup
 {:toc}
 
 ## Data & Tools 
