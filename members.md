@@ -1,3 +1,8 @@
+---
+layout: page
+title: Members
+---
+
 ## Member List
 
 ### Data & Tools 
