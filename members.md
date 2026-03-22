@@ -38,7 +38,7 @@ title: Members
 ### *Mycobacterium tuberculosis*
 **Leonid Chindelevitch**, Iñaki Comas, Philip Fowler, Kristy Horan, Priyanka Khopkar-Kale, Mariana López, Conor Meehan, Adam Witney, Brian Alcock, Francesca Saluzzo, João Perdigão, Dylan Adlard, Margo Diricks
 
-## *Campylobacter* 
+### *Campylobacter* 
 **Birgitta Duim**, Bruno Silvester Lopes, Malgorzata Ligowska-Marzeta, Monica Oleastro, Tee Keat Teoh, Bogdan Iorga, Diana Costa, Sangeeta Banerji, Alexandra Nunes
 
 ### *Proteus mirabilis* 
