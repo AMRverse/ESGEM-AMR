@@ -7,3 +7,14 @@
     max-width: 900px;
     margin: auto;
 }
+
+nav a {
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+nav {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
