@@ -12,7 +12,7 @@ An overview of the AMRrules concept and software is available in [here](https://
 In 2024 [ESGEM, the ESCMID Study Group on Epidemiological Markers](https://www.escmid.org/esgem/), partnered with the AMRrules team to form the ESGEM-AMR Working Group to curate organism-specific rule sets for AMRrules. 
 
 The convenors of ESGEM-AMR are Kat Holt (LSHTM), Natacha Couto (ESGEM Chair), and Jane Hawkey (Monash, leading bioinformatics development).
-We have ~200 members (listed [below](#member-list-by-subgroup)), structured into:
+We have ~200 members (listed [here](members)), structured into:
 * Organism-focused subgroups who curate AMRrules for their focus organism (species or genus), and
 * Data & Tools subgroup who developed the AMRrules specification and contribute to technical development and interoperability with other tools in the AMR genomics ecosystem.
 
