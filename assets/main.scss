@@ -37,30 +37,14 @@
 }
 
 .dropbtn {
-  background: transparent;
   color: white;
-  border: none;
-  font-size: 16px;
   cursor: pointer;
   padding: 8px 10px;
-
-  /* remove mobile button styling */
-  appearance: none;
-  -webkit-appearance: none;
-  outline: none;
-  box-shadow: none;
 }
 
-/* remove white tap highlight on mobile */
-.dropbtn:focus,
-.dropbtn:active {
-  outline: none;
-  background: transparent;
-}
-
-/* remove iOS grey tap flash */
-.dropbtn {
-  -webkit-tap-highlight-color: transparent;
+.dropdown:hover .dropdown-content,
+.dropdown:focus-within .dropdown-content {
+  display: block;
 }
 
 .dropdown-content {
@@ -70,14 +54,6 @@
   background: white;
   min-width: 130px;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-}
-
-.dropdown:focus-within .dropdown-content {
-  display: block;
-}
-
-.dropdown.open .dropdown-content {
-  display: block;
 }
 
 .dropdown-content a {
