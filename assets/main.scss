@@ -5,14 +5,11 @@
 
 /* Layout container */
 .page-container {
-    display: flex;
-    max-width: 1000px;
-    margin: auto;
-    padding-top: 30px;
-    gap: 40px;
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
 }
 
-/* Main content */
 .content {
     flex: 3;
 }
@@ -23,12 +20,10 @@
 }
 
 .header-bar {
-  max-width: 1100px;
-  margin: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 12px 20px;
+  padding: 12px 0;
 }
 
 .site-title a {
