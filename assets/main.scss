@@ -23,7 +23,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 12px 0;
 }
 
 .site-title a {
@@ -50,13 +49,13 @@
   position: absolute;
   right: 0;
   background: white;
-  min-width: 160px;
+  min-width: 120px;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
 
 .dropdown-content a {
   color: black;
-  padding: 10px 14px;
+  padding: 6px 5px;
   display: block;
   text-decoration: none;
 }
