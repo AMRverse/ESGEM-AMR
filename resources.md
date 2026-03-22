@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Member Resources
-toc: true
 ---
 
 # Member Resources
