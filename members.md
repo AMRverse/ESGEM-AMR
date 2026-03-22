@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Members
+toc: true
 ---
 
 # ESGEM-AMR Members
