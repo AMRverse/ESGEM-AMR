@@ -91,10 +91,10 @@ toc: true
 **Po-Yu Liu**, João PedroFurlan, Hsien-Po Huang, Po-Hsiui
 
 ### *Burkholderia cepacia complex*
-*Charlotte Michel*, David Wareham
+**Charlotte Michel**, David Wareham
 
 ### *Listeria*
-*Jelalu Kemal Birmeka*, Basil Britto Xavier, Marc Lecuit, Alexandra Moura
+**Jelalu Kemal Birmeka**, Basil Britto Xavier, Marc Lecuit, Alexandra Moura
 
 ### *Corynebacterium diphtheriae*
 **Sylvain Brisse**, Louise Teixeira Cerdeira, Adrian Egli, Teresa Ribeiro
