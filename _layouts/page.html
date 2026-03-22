@@ -8,14 +8,18 @@
 
 <body>
 
-  <nav class="wrapper" style="margin-top:20px; margin-bottom:30px;">
-    <a href="{{ "/" | relative_url }}">ESGEM-AMR</a> |
-    <a href="{{ "/members.html" | relative_url }}">Members</a>
-  </nav>
+  <div class="page-container">
 
-  <main class="wrapper">
-    {{ content }}
-  </main>
+    <main class="content">
+      {{ content }}
+    </main>
+
+    <nav class="sidebar">
+  <a href="{{ "/" | relative_url }}" class="{% if page.title == 'ESGEM-AMR Working Group' %}active{% endif %}">ESGEM-AMR</a>
+  <a href="{{ "/members.html" | relative_url }}" class="{% if page.title == 'Members' %}active{% endif %}">Members</a>
+</nav>
+
+  </div>
 
 </body>
 </html>

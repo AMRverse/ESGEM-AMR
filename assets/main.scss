@@ -3,18 +3,30 @@
 
 @import "minima";
 
-.wrapper {
-    max-width: 900px;
+.page-container {
+    display: flex;
+    max-width: 1000px;
     margin: auto;
+    padding-top: 30px;
 }
 
-nav a {
+.content {
+    flex: 3;
+    padding-right: 40px;
+}
+
+.sidebar {
+    flex: 1;
+    text-align: right;
+}
+
+.sidebar a {
+    display: block;
     text-decoration: none;
     font-weight: 600;
-    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
-nav {
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 10px;
+.active {
+    font-weight: 800;
 }
