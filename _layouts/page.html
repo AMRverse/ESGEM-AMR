@@ -15,22 +15,16 @@
       {{ content }}
     </main>
 
-    <nav class="sidebar">
-      <a href="{{ "/" | relative_url }}"
-         class="{% if page.title == 'ESGEM-AMR Working Group' %}active{% endif %}">
-         Home
-      </a>
-
-      <a href="{{ "/members.html" | relative_url }}"
-         class="{% if page.title == 'Members' %}active{% endif %}">
-         Members
-      </a>
-      
-      <a href="{{ "/resources.html" | relative_url }}"
-         class="{% if page.title == 'Member Resources' %}active{% endif %}">
-         Resources
-      </a>
-    </nav>
+	<nav class="site-nav">
+	  <div class="dropdown">
+		<button class="dropbtn">Menu ▼</button>
+		<div class="dropdown-content">
+		  <a href="/">Home</a>
+		  <a href="/members">Members</a>
+		  <a href="/resources">Resources</a>
+		</div>
+	  </div>
+	</nav>
 
   </div>
 

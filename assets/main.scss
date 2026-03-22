@@ -17,47 +17,44 @@
     flex: 3;
 }
 
-/* Right sidebar navigation */
-.sidebar {
-    flex: 1;
-    text-align: right;
-    border-left: 1px solid #ddd;
-    padding-left: 20px;
+.site-nav {
+  position: relative;
 }
 
-/* Navigation links */
-.sidebar a {
-    display: block;
-    text-decoration: none;
-    font-weight: 600;
-    margin-bottom: 12px;
+.dropdown {
+  display: inline-block;
 }
 
-.sidebar a:hover {
-    text-decoration: underline;
+.dropbtn {
+  background-color: #2c3e50;
+  color: white;
+  padding: 10px 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
 }
 
-/* 📱 Mobile layout */
-@media (max-width: 768px) {
-
-    .page-container {
-        flex-direction: column;
-        gap: 20px;
-        padding: 20px;
-    }
-
-    .sidebar {
-        order: -1;
-        text-align: left;
-        border-left: none;
-        border-bottom: 1px solid #ddd;
-        padding-left: 0;
-        padding-bottom: 10px;
-    }
-
-    .sidebar a {
-        display: inline-block;
-        margin-right: 20px;
-        margin-bottom: 0;
-    }
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  z-index: 1;
 }
+
+.dropdown-content a {
+  color: black;
+  padding: 10px 14px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f2f2f2;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
