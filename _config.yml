@@ -1,3 +1,7 @@
 theme: minima
 title: "ESGEM-AMR Working Group"
 logo: ""
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 2..3
