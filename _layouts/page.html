@@ -14,10 +14,17 @@
       {{ content }}
     </main>
 
-    <nav class="sidebar">
-  <a href="{{ "/" | relative_url }}" class="{% if page.title == 'ESGEM-AMR Working Group' %}active{% endif %}">ESGEM-AMR</a>
-  <a href="{{ "/members.html" | relative_url }}" class="{% if page.title == 'Members' %}active{% endif %}">Members</a>
-</nav>
+	<nav class="sidebar">
+	  <a href="{{ "/" | relative_url }}"
+		 class="{% if page.title == 'ESGEM-AMR Working Group' %}active{% endif %}">
+		 ESGEM-AMR
+	  </a>
+	
+	  <a href="{{ "/members.html" | relative_url }}"
+		 class="{% if page.title == 'Members' %}active{% endif %}">
+		 Members
+	  </a>
+	</nav>
 
   </div>
 

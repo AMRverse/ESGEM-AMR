@@ -3,30 +3,61 @@
 
 @import "minima";
 
+/* Layout container */
 .page-container {
     display: flex;
     max-width: 1000px;
     margin: auto;
     padding-top: 30px;
+    gap: 40px;
 }
 
+/* Main content */
 .content {
     flex: 3;
-    padding-right: 40px;
 }
 
+/* Right sidebar navigation */
 .sidebar {
     flex: 1;
     text-align: right;
+    border-left: 1px solid #ddd;
+    padding-left: 20px;
 }
 
+/* Navigation links */
 .sidebar a {
     display: block;
     text-decoration: none;
     font-weight: 600;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 
-.active {
-    font-weight: 800;
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+/* 📱 Mobile layout */
+@media (max-width: 768px) {
+
+    .page-container {
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .sidebar {
+        order: -1;
+        text-align: left;
+        border-left: none;
+        border-bottom: 1px solid #ddd;
+        padding-left: 0;
+        padding-bottom: 10px;
+    }
+
+    .sidebar a {
+        display: inline-block;
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
 }
