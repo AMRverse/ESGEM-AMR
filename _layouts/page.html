@@ -19,7 +19,8 @@
 
       <nav class="site-nav">
         <div class="dropdown">
-          <button class="dropbtn">Menu ▼</button>
+          <button class="dropbtn" onclick="this.parentElement.classList.toggle('open')">
+  			Menu ☰ </button>
           <div class="dropdown-content">
             <a href="{{ '/' | relative_url }}">Home</a>
             <a href="{{ '/members' | relative_url }}">Members</a>

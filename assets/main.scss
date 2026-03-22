@@ -27,7 +27,7 @@
 
 .site-title a {
   color: white;
-  font-size: 30px;
+  font-size: 24px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -37,11 +37,30 @@
 }
 
 .dropbtn {
-  background: #68349A;
+  background: transparent;
   color: white;
   border: none;
   font-size: 16px;
   cursor: pointer;
+  padding: 8px 10px;
+
+  /* remove mobile button styling */
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  box-shadow: none;
+}
+
+/* remove white tap highlight on mobile */
+.dropbtn:focus,
+.dropbtn:active {
+  outline: none;
+  background: transparent;
+}
+
+/* remove iOS grey tap flash */
+.dropbtn {
+  -webkit-tap-highlight-color: transparent;
 }
 
 .dropdown-content {
@@ -49,13 +68,21 @@
   position: absolute;
   right: 0;
   background: white;
-  min-width: 120px;
+  min-width: 130px;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.dropdown:focus-within .dropdown-content {
+  display: block;
+}
+
+.dropdown.open .dropdown-content {
+  display: block;
 }
 
 .dropdown-content a {
   color: black;
-  padding: 6px 5px;
+  padding: 6px 6px;
   display: block;
   text-decoration: none;
 }
@@ -72,4 +99,20 @@
   max-width: 1100px;
   margin: auto;
   padding: 20px;
+}
+
+@media (max-width: 700px) {
+
+  .header-bar {
+    padding: 10px 15px;
+  }
+
+  .dropbtn {
+    font-size: 18px;
+  }
+
+  .dropdown-content {
+    right: 0;
+    left: auto;
+  }
 }
