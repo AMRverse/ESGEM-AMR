@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <img src="AMRrules_logo.png" width="200" align="right">
 
 This is the home of the **ESGEM-AMR Working Group**, which focuses on curating organism-specific rule sets for interpreting AMR genotypes under the [AMRrules](https://amrrules.org) framework.
