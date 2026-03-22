@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 </head>
@@ -14,17 +15,17 @@
       {{ content }}
     </main>
 
-	<nav class="sidebar">
-	  <a href="{{ "/" | relative_url }}"
-		 class="{% if page.title == 'ESGEM-AMR Working Group' %}active{% endif %}">
-		 ESGEM-AMR
-	  </a>
-	
-	  <a href="{{ "/members.html" | relative_url }}"
-		 class="{% if page.title == 'Members' %}active{% endif %}">
-		 Members
-	  </a>
-	</nav>
+    <nav class="sidebar">
+      <a href="{{ "/" | relative_url }}"
+         class="{% if page.title == 'ESGEM-AMR Working Group' %}active{% endif %}">
+         Home
+      </a>
+
+      <a href="{{ "/members.html" | relative_url }}"
+         class="{% if page.title == 'Members' %}active{% endif %}">
+         Members
+      </a>
+    </nav>
 
   </div>
 
