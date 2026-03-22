@@ -9,23 +9,33 @@
 
 <body>
 
-  <div class="page-container">
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-bar">
 
+      <div class="site-title">
+        <a href="{{ '/' | relative_url }}">ESGEM-AMR</a>
+      </div>
+
+      <nav class="site-nav">
+        <div class="dropdown">
+          <button class="dropbtn">Menu ▼</button>
+          <div class="dropdown-content">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/members' | relative_url }}">Members</a>
+            <a href="{{ '/resources' | relative_url }}">Resources</a>
+          </div>
+        </div>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- PAGE CONTENT -->
+  <div class="page-container">
     <main class="content">
       {{ content }}
     </main>
-
-	<nav class="site-nav">
-	  <div class="dropdown">
-		<button class="dropbtn">Menu ▼</button>
-		<div class="dropdown-content">
-		  <a href="/">Home</a>
-		  <a href="/members">Members</a>
-		  <a href="/resources">Resources</a>
-		</div>
-	  </div>
-	</nav>
-
   </div>
 
 </body>
