@@ -4,7 +4,9 @@ This is the home of the **ESGEM-AMR Working Group**, which focuses on curating o
 
 The goal of AMRrules is to develop interpretive standards for AMR genotypes, akin to the interpretive standards developed by [EUCAST](https://www.eucast.org/) and [CLSI](https://clsi.org/) for antimicrobial susceptibility phenotyping.
 
-An overview of the AMRrules concept and software is available in [here](https://docs.amrrules.org), and version 1 rules curated by ESGEM-AMR are available [here](https://browse.amrrules.org).
+An overview of the AMRrules concept and software is available in <a href="slides/AMRrules_WellcomeAMRConf2026.pdf" class="image fit">these slides</a> and the AMRrules [documentation](https://docs.amrrules.org), and version 1 rules curated by ESGEM-AMR are available [here](https://browse.amrrules.org).
+
+
 
 ## About ESGEM-AMR
 In 2024 [ESGEM, the ESCMID Study Group on Epidemiological Markers](https://www.escmid.org/esgem/), partnered with the AMRrules team to form the ESGEM-AMR Working Group to curate organism-specific rule sets for AMRrules. 
