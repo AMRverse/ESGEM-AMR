@@ -44,7 +44,7 @@ toc: true
 **Birgitta Duim**, Bruno Silvester Lopes, Malgorzata Ligowska-Marzeta, Monica Oleastro, Tee Keat Teoh, Bogdan Iorga, Diana Costa, Sangeeta Banerji, Alexandra Nunes
 
 ### *Proteus mirabilis* 
-**Axel Hamprecht**, Janko Sattler, Elisenda Miro, Rémy Bonnin, Stephan Goettig, Shereen Shaban Abdelkareem
+**Axel Hamprecht**, Janko Sattler, Elisenda Miro, Rémy Bonnin, Stephan Goettig, Shereen Shaban Abdelkareem, Mohammed Elbediwi
 
 ### *Yersinia*
 **Pieter-Jan Ceyssens**, Cyril Savin, Regina Russanova
