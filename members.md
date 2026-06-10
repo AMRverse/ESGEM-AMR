@@ -8,7 +8,7 @@ toc: true
 {:toc}
 
 ## Data & Tools 
-**Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Michael Feldgarden, Brody Duncan, Kristy Horan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Mackenzie Wilke, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, Derek Sarovich, John Rossen, Silvia Argimon, Charlene Rodrigues, Rolf Kaas, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad
+**Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Michael Feldgarden, Brody Duncan, Kristy Horan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Mackenzie Wilke, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, Derek Sarovich, John Rossen, Silvia Argimon, Charlene Rodrigues, Rolf Kaas, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad, Stephanie Lo, Aduragbemi Adesina, Paul Denny
 
 ### *Enterococcus*
 **Francesc Coll**, Thomas Demuyser, Ana R. Freitas, Guido Werner, Precious Osadebamwen, Theo Gouliouris, Fiona Walsh, Valeria Bortolaia, Basil Britto Xavier, Helena Seth-Smith
@@ -44,7 +44,7 @@ toc: true
 **Birgitta Duim**, Bruno Silvester Lopes, Malgorzata Ligowska-Marzeta, Monica Oleastro, Tee Keat Teoh, Bogdan Iorga, Diana Costa, Sangeeta Banerji, Alexandra Nunes
 
 ### *Proteus mirabilis* 
-**Axel Hamprecht**, Janko Sattler, Elisenda Miro, Rémy Bonnin, Stephan Goettig, Shereen Shaban Abdelkareem, Mohammed Elbediwi
+**Axel Hamprecht**, Janko Sattler, Elisenda Miro, Rémy Bonnin, Stephan Goettig, Shereen Shaban Abdelkareem, Mohammed Elbediwi, Lubna Patel
 
 ### *Yersinia*
 **Pieter-Jan Ceyssens**, Cyril Savin, Regina Russanova
@@ -56,7 +56,7 @@ toc: true
 **Po-Yu Liu**, João PedroFurlan, Ting-Kuang Yeh
 
 ### *Burkholderia pseudomallei* 
-**Claire Chewapreecha**, Derek Sarovich, Jessica Webb, Chalita Chomkatekaew
+**Claire Chewapreecha**, Derek Sarovich, Jessica Webb, Chalita Chomkatekaew, Thawanrat Khuanton, Arin	Wongprommoon
 
 ### *Legionella* 
 **Charlotte Michel**, Ghislaine Descours, Christophe	Ginevra, Stefano De Giorgi, Nancy Flountzi,	Sophie Jarraud
@@ -68,7 +68,7 @@ toc: true
 **Assaf Rokney**, Charlotte Michel, Priyanka Khopkar-Kale, Derek Sarovich, Margo Diricks, Matthias Merker
 
 ### *Streptococcus*
-**Mario Ramirez**, Assaf Rokney, Holly Grace Espiriu, Stefanie Desmet, Elita Jauneikaite
+**Mario Ramirez**, Assaf Rokney, Holly Grace Espiriu, Stefanie Desmet, Elita Jauneikaite, Stephanie Lo
 
 ### *Stenotrophomonas maltophilia*
 **Jane Hawkey**, Derek Sarovich, David Wareham, Fiona Walsh, Rietie Venter, Kat Holt
