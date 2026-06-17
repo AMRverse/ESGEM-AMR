@@ -92,7 +92,7 @@ toc: true
 **Charlotte Michel**, David Wareham
 
 ### *Listeria*
-**Jelalu Kemal Birmeka**, Basil Britto Xavier, Marc Lecuit, Alexandra Moura
+Basil Britto Xavier, Marc Lecuit, Alexandra Moura
 
 ### *Corynebacterium diphtheriae*
 **Sylvain Brisse**, Louise Teixeira Cerdeira, Adrian Egli, Teresa Ribeiro
@@ -108,6 +108,3 @@ toc: true
 
 ### *Chryseobacterium indologenes*
 **Rietie Venter**
-
-### *Brucella, Edwardsiella, Pasteurella* 
-**Jelalu Kemal Birmeka**
