@@ -14,7 +14,7 @@ toc: true
 **Francesc Coll**, Thomas Demuyser, Ana R. Freitas, Guido Werner, Precious Osadebamwen, Theo Gouliouris, Fiona Walsh, Valeria Bortolaia, Basil Britto Xavier, Helena Seth-Smith
 
 ### *Staphylococcus*
-**Natacha Couto**, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Assaf Rokney, Holly Grace Espiriu, Manal AbuOun, Sankarganesh Jeyaraj, Robert Kozak, Nick Duggett, Birgit Strommenger, Lina Cavaco, Varun Shamanna, Sabrina Di Gregorio, Teresa Ribeiro, Tim Read, Georgina Lewis-Woodhouse, Raphael Sieber
+**Natacha Couto**, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Holly Grace Espiriu, Manal AbuOun, Sankarganesh Jeyaraj, Robert Kozak, Nick Duggett, Birgit Strommenger, Lina Cavaco, Varun Shamanna, Sabrina Di Gregorio, Teresa Ribeiro, Tim Read, Georgina Lewis-Woodhouse, Raphael Sieber
 
 ### *Acinetobacter baumannii*
 **Paul Higgins**, Rahul Garg, Mehrad Hamidian, Bogdan Iorga, Priyanka Khopkar-Kale, Margaret Lam, Bruno Silvester Lopes, Ignasi Roca, Varun Shamanna, Clement Tsui, David Wareham, Valeria Bortolaia, Adrian Egli, Lucie Amoureux, Vera Manageiro, Antoine Abou Fayad, Beverly Egyir
@@ -29,10 +29,10 @@ toc: true
 *Kat Holt/Kara Tsang*, Valeria Bortolaia, Adam Komorowski, Elisenda Miro, Jon Iredell, Ørjan Samuelsen, Sally Partridge, Manal AbuOun, Sandra Reuter, Sankarganesh Jeyaraj, Fernando Lazaro Perona, Richard Goodman, Teresa Coque, Bogdan Iorga, Clement Tsui, Margaret Lam, Priyanka Khopkar-Kale, Varun Shamanna, Adam Witney, Alasdair Hubbard, Nicole Stoesser, Sam Lipworth, Deepali Desai, Ângela	Novais, Luis Gustavo Carvalho Pacheco, Iren Høyland Löhr, Daniela M Cirillo, Adrian Egli, Francesca Saluzzo, Nicholas Feasey, João Perdigão, Timothy Walsh, Oliver Pearse, Kelly Wyres, Vera Manageiro +[KlebNet Geno/Pheno Consortium](https://klebnet.org/amrgenopheno/)
 
 ### *Escherichia coli/Shigella* 
-**Ebenezer Foster-Nyarko/Kat Holt** Pieter-Jan Ceyssens, Fiona Walsh, Carolina Silva Nodari, Soe Yu Naing, Richard Goodman, Abdurrahman Hassan Jibril, Jelalu Kemal Birmeka, Elena Martinez, Teresa Coque, Ramon Maluping, Ana Vale, Gultekin Unal, Axel Hamprecht, Valeria Bortolaia, Bogdan Lorga, Alasdair Hubbard, Manal AbuOun, Jon Iredell, Sally Partridge, Nicole Stoesser, Sam Lipworth, Etienne Rupée, Gherard Batisti Biffignandi, Kate Baker, Adrian Egli, Timothy Walsh, Vera Manageiro, Leonor Silveira, Benjamin Parcell
+**Ebenezer Foster-Nyarko/Kat Holt** Pieter-Jan Ceyssens, Fiona Walsh, Carolina Silva Nodari, Soe Yu Naing, Richard Goodman, Abdurrahman Hassan Jibril, Elena Martinez, Teresa Coque, Ramon Maluping, Ana Vale, Gultekin Unal, Axel Hamprecht, Valeria Bortolaia, Bogdan Lorga, Alasdair Hubbard, Manal AbuOun, Jon Iredell, Sally Partridge, Nicole Stoesser, Sam Lipworth, Etienne Rupée, Gherard Batisti Biffignandi, Kate Baker, Adrian Egli, Timothy Walsh, Vera Manageiro, Leonor Silveira, Benjamin Parcell
 
 ### *Salmonella enterica* 
-**Pieter-Jan Ceyssans/Zoe Dyson**, Kristy Horan, Anthony Smith, Gültekin Ünal, Abdurrahman Hassan Jibril, Manal AbuOun, Jelalu Kemal Birmeka, Varun Shamanna, Assaf Rokney, Malgorzata Ligowska-Marzeta, Megan Carey, Regina Russanova, Tom Koritnik, Zoe Dyson, Leonor Silveira
+**Zoe Dyson**, Pieter-Jan Ceyssans, Kristy Horan, Anthony Smith, Gültekin Ünal, Abdurrahman Hassan Jibril, Manal AbuOun, Varun Shamanna, Assaf Rokney, Malgorzata Ligowska-Marzeta, Megan Carey, Regina Russanova, Tom Koritnik, Zoe Dyson, Leonor Silveira
 
 ### *Neisseria gonorrhoeae*
 **Leonor Sanchez Buso**, Yonatan Grad, Sheeba Manoharan-Basil, Martin McHugh, Tatum Mortimer, Anna Roditscheff, Faina Wehrli, Adam Witney, Raffael Frei, Daniel Golparian, Magnus Unemo
@@ -47,7 +47,7 @@ toc: true
 **Axel Hamprecht**, Janko Sattler, Elisenda Miro, Rémy Bonnin, Stephan Goettig, Shereen Shaban Abdelkareem, Mohammed Elbediwi, Lubna Patel
 
 ### *Yersinia*
-**Pieter-Jan Ceyssens**, Cyril Savin, Regina Russanova
+Pieter-Jan Ceyssens, Cyril Savin, Regina Russanova
 
 ### *Neisseria meningitidis* 
 **Célia Bettencourt**, Leonor Sanchez Buso, Ala-Eddine Deghmane, Wesley Mattheus, Ana Filipa Vale, Alexandra Nunes
@@ -68,7 +68,7 @@ toc: true
 **Assaf Rokney**, Charlotte Michel, Priyanka Khopkar-Kale, Derek Sarovich, Margo Diricks, Matthias Merker
 
 ### *Streptococcus*
-**Mario Ramirez**, Assaf Rokney, Holly Grace Espiriu, Stefanie Desmet, Elita Jauneikaite, Stephanie Lo
+**Mario Ramirez**, Holly Grace Espiriu, Stefanie Desmet, Elita Jauneikaite, Stephanie Lo
 
 ### *Stenotrophomonas maltophilia*
 **Jane Hawkey**, Derek Sarovich, David Wareham, Fiona Walsh, Rietie Venter, Kat Holt
