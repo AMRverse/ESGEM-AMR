@@ -17,7 +17,7 @@ toc: true
 **Natacha Couto**, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Holly Grace Espiriu, Robert Kozak, Birgit Strommenger, Varun Shamanna, Sabrina Di Gregorio, Teresa Ribeiro, Tim Read, Georgina Lewis-Woodhouse, Raphael Sieber, Benjamin Parcell
 
 ### *Acinetobacter baumannii*
-**Paul Higgins**, Rahul Garg, Mehrad Hamidian, Bogdan Iorga, Priyanka Khopkar-Kale, Margaret Lam, Bruno Silvester Lopes, Ignasi Roca, Varun Shamanna, David Wareham, Valeria Bortolaia, Adrian Egli
+**Paul Higgins**, Rahul Garg, Mehrad Hamidian, Bogdan Iorga, Priyanka Khopkar-Kale, Margaret Lam, Bruno Silvester Lopes, Ignasi Roca, Varun Shamanna, David Wareham, Valeria Bortolaia, Adrian Egli, Vindana Chibabhai
 
 ### Enterobacter
 **Teresa Coque/Rafael Canton**, Paul Higgins, Po-Yu Liu, Elena Martinez, Rietie Venter, Angela Novais, Patrick Harris, Valeria Bortolaia, Val Fernandez, Vera Manageiro, Lorena Lopez Cerero
@@ -26,7 +26,7 @@ toc: true
 **Antonio Oliver**, Bogdan Lorga, Xena Li, Carla Lopez Causape, Juliette Severin, David Wareham, Adam Witney, Ørjan Samuelsen, Bela Kocsis, Francesca Saluzzo
 
 ### *Klebsiella pneumoniae*
-*Kat Holt/Kara Tsang*, Adam Komorowski, Ørjan Samuelsen, Sally Partridge, Sandra Reuter, Richard Goodman, Teresa Coque, Bogdan Iorga, Clement Tsui, Margaret Lam, Priyanka Khopkar-Kale, Varun Shamanna, Sam Lipworth, Deepali Desai, Luis Gustavo Carvalho Pacheco, Iren Høyland Löhr, Daniela M Cirillo, Adrian Egli, Francesca Saluzzo, Nicholas Feasey, João Perdigão, Timothy Walsh, Kelly Wyres, Vera Manageiro, Louise Teixeira-Cerdeira, David Wareham, Rafael Cantón, Ramon Maluping +[KlebNet Geno/Pheno Consortium](https://klebnet.org/amrgenopheno/)
+*Kat Holt/Kara Tsang*, Adam Komorowski, Ørjan Samuelsen, Sally Partridge, Sandra Reuter, Richard Goodman, Teresa Coque, Bogdan Iorga, Clement Tsui, Margaret Lam, Priyanka Khopkar-Kale, Varun Shamanna, Sam Lipworth, Deepali Desai, Luis Gustavo Carvalho Pacheco, Iren Høyland Löhr, Daniela M Cirillo, Adrian Egli, Francesca Saluzzo, Nicholas Feasey, João Perdigão, Timothy Walsh, Kelly Wyres, Vera Manageiro, Louise Teixeira-Cerdeira, David Wareham, Rafael Cantón, Ramon Maluping, Vindana Chibabhai +[KlebNet Geno/Pheno Consortium](https://klebnet.org/amrgenopheno/)
 
 ### *Escherichia coli/Shigella* 
 **Ebenezer Foster-Nyarko/Kat Holt** Pieter-Jan Ceyssens, Carolina Silva Nodari, Soe Yu Naing, Richard Goodman, Elena Martinez, Teresa Coque, Ramon Maluping, Gültekin Ünal, Bogdan Iorga, Sally Partridge, Sam Lipworth, Adrian Egli, Timothy Walsh, Vera Manageiro, Benjamin Parcell, Rafael Cantón, Zoe Dyson
