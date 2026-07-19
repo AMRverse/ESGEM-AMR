@@ -23,7 +23,7 @@ toc: true
 **Teresa Coque/Rafael Canton**, Paul Higgins, Po-Yu Liu, Elena Martinez, Rietie Venter, Angela Novais, Patrick Harris, Valeria Bortolaia, Val Fernandez, Vera Manageiro, Lorena Lopez Cerero
 
 ### *Pseudomonas aeruginosa*
-**Antonio Oliver**, Bogdan Lorga, Xena Li, Carla Lopez Causape, Juliette Severin, David Wareham, Adam Witney, Ørjan Samuelsen, Bela Kocsis, Francesca Saluzzo
+**Antonio Oliver**, Bogdan Iorga, Xena Li, Carla Lopez Causape, Juliette Severin, David Wareham, Adam Witney, Ørjan Samuelsen, Bela Kocsis, Francesca Saluzzo
 
 ### *Klebsiella pneumoniae*
 *Kat Holt/Kara Tsang*, Adam Komorowski, Ørjan Samuelsen, Sally Partridge, Sandra Reuter, Richard Goodman, Teresa Coque, Bogdan Iorga, Clement Tsui, Margaret Lam, Priyanka Khopkar-Kale, Varun Shamanna, Sam Lipworth, Deepali Desai, Luis Gustavo Carvalho Pacheco, Iren Høyland Löhr, Daniela M Cirillo, Adrian Egli, Francesca Saluzzo, Nicholas Feasey, João Perdigão, Timothy Walsh, Kelly Wyres, Vera Manageiro, Louise Teixeira-Cerdeira, David Wareham, Rafael Cantón, Ramon Maluping, Vindana Chibabhai +[KlebNet Geno/Pheno Consortium](https://klebnet.org/amrgenopheno/)
