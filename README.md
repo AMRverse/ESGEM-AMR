@@ -27,6 +27,19 @@ ESGEM-AMR members volunteer their time to the working group, which involves atte
 
 Additional requests to join ESGEM-AMR will be considered periodically. You may register your interest and let us know what organism/s you have expertise in, using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeH96VlioxLKarZOLMqD-f1fLnb9WYOHYz4tZ9NtQzpHrKyzw/viewform?usp=sf_link). We are particularly interested in hearing from potential new members with expertise in organisms for which there is not yet a subgroup, or with small subgroups (see list [here](members)).
 
+### Outputs
+
+**AMRrules: Interpretive standards for AMR genotypes**
+* Python package: [AMRrules](https://amrrules.org/)
+* Interactive rule browser: [AMRrules Browser](https://browse.amrrules.org/)
+
+**AMRgen: an R package for antimicrobial resistance genotype-phenotype analysis**
+* R package: [AMRgen](https://amrgen.org/)
+* Preprint: Holt et al, 2026, [DOI: 10.64898/2026.05.01.722195v1](https://www.biorxiv.org/content/10.64898/2026.05.01.722195v1)
+
+**A call for sharing phenotypic antimicrobial susceptibility data alongside bacterial genome sequence data in public archives**
+* Preprint: Holt et al, 2026 [DOI: 10.5281/zenodo.21488150](https://doi.org/10.5281/zenodo.21488150)
+
 ### Partners
 
 We have partnered with EUCAST to ensure alignment of the AMRrules approach with the [EUCAST Subcommittee on WGS and Phenotypic AST](https://www.eucast.org/organization/subcommittees/wgs_and_phenotypic_testing) (including their [first report (2017)](https://doi.org/10.1016/j.cmi.2016.11.012) and ongoing updates), as well as important EUCAST concepts and guidance including [Expected Phenotypes](https://www.eucast.org/expert_rules_and_expected_phenotypes/expected_phenotypes), [Expert Rules](https://www.eucast.org/expert_rules_and_expected_phenotypes), [wildtype distributions and ECOFFS](https://mic.eucast.org/), and [Resistance Mechanisms](https://www.eucast.org/resistance_mechanisms).
