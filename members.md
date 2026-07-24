@@ -8,7 +8,7 @@ toc: true
 {:toc}
 
 ## Data & Tools 
-**Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Brody Duncan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, John Rossen, Silvia Argimon, Charlene Rodrigues, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad, Stephanie Lo, Aduragbemi Adesina, Paul Denny, Brian Alcock
+**Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Brody Duncan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, John Rossen, Silvia Argimon, Charlene Rodrigues, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad, Stephanie Lo, Aduragbemi Adesina, Brian Alcock
 
 ### *Enterococcus*
 **Francesc Coll**, Ana R. Freitas, Precious Osadebamwen, Theo Gouliouris, Valeria Bortolaia, Helena Seth-Smith
