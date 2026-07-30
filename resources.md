@@ -14,7 +14,7 @@ title: Member Resources
 * AMRrulemakeR R package for automating rule generation using AMRgen analyses [[AMRrulemakeR repo]](https://make.amrrules.org)
 * Code and tools for accessing public AMRFinderPlus + AST data [[datacuration repo]](https://github.com/interpretAMR/datacuration)
 * Instructions for exporting AST data from instruments like Vitek, Sensititre [[ESGEM-AMR webpage]](https://esgem-amr.amrrules.org/export-ast)
-* AMRgen Converter app, to format AST data for submission to EBI/NCBI [[web app]](http://apps.amrverse.org/amrgenconverter/) [[code]](https://github.com/AMRverse/AMRgenconverter)
+* AMRgen Converter app, to format AST data for submission to EBI/NCBI [[web app]](https://converter.amrgen.org/) [[code]](https://github.com/AMRverse/AMRgenconverter)
 * CARD/Antimicrobial Resistance Ontology (ARO): [[browser]](https://card.mcmaster.ca/)
 * Variant specification: [HGVS](https://hgvs-nomenclature.org/stable/)
 * AMRrules syntax: [[docs]](https://docs.amrrules.org/en/latest/specification.html#syntax-for-mutations)
