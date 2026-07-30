@@ -77,7 +77,7 @@ Pieter-Jan Ceyssens, Cyril Savin
 **Sandra Reuter**, Teresa Coque, Adam Komorowski, João Pedro Furlan, Luis Martinez-Martínez, Rafael Cantón, Val Fernandez Lanza
 
 ### Anaerobes 
-**Trefor Morris**, Ulrik Stenz Justesen, Marcela Krutova, Linda Veloo, Kathleen Boiten, Ting-Kuang Yeh, Flemming Damgaard
+**Trefor Morris**, Ulrik Stenz Justesen, Marcela Krutova, Linda Veloo, Kathleen Boiten, Ting-Kuang Yeh, Flemming Damgaard, Anurag Kumar Bari
 
 ### *Citrobacter*
 **Teresa Ribeiro**, Roberto Sierra, Diego Andrey
