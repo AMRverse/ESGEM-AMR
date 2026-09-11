@@ -53,7 +53,7 @@ Pieter-Jan Ceyssens, Cyril Savin
 **Célia Bettencourt**, Leonor Sanchez Buso, Wesley Mattheus, Ana Filipa Vale, Alexandra Nunes
 
 ### *Shewanella*
-**Po-Yu Liu**, João PedroFurlan, Ting-Kuang Yeh
+**Po-Yu Liu**, João Pedro Furlan, Ting-Kuang Yeh
 
 ### *Burkholderia pseudomallei* 
 **Claire Chewapreecha**, Derek Sarovich, Chalita Chomkatekaew, Thawanrat Khuanton, Arin	Wongprommoon
@@ -74,7 +74,7 @@ Pieter-Jan Ceyssens, Cyril Savin
 **Jane Hawkey**, Derek Sarovich, David Wareham, Fiona Walsh, Rietie Venter, Kat Holt
 
 ### *Serratia*
-**Sandra Reuter**, Teresa Coque, Adam Komorowski, João Pedro Furlan, Luis Martinez-Martínez, Rafael Cantón, Val Fernandez Lanza
+**Sandra Reuter**, Teresa Coque, Adam Komorowski, Luis Martinez-Martínez, Rafael Cantón, Val Fernandez Lanza
 
 ### Anaerobes 
 **Trefor Morris**, Ulrik Stenz Justesen, Marcela Krutova, Linda Veloo, Kathleen Boiten, Ting-Kuang Yeh, Flemming Damgaard, Anurag Kumar Bari
@@ -86,7 +86,7 @@ Pieter-Jan Ceyssens, Cyril Savin
 **Charlotte Michel**, Lucie Amoureux, Miglė Gabrielaitė, Lisa Påhlman
 
 ### *Aeromonas* 
-**Po-Yu Liu**, João PedroFurlan, Hsien-Po Huang, Po-Hsiui Huang, Ting-Kuang Yeh
+**Po-Yu Liu**, João Pedro Furlan, Hsien-Po Huang, Po-Hsiui Huang, Ting-Kuang Yeh
 
 ### *Listeria*
 Alexandra Moura
