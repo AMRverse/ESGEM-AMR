@@ -8,7 +8,7 @@ toc: true
 {:toc}
 
 ## Data & Tools 
-**Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Brody Duncan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, John Rossen, Silvia Argimon, Charlene Rodrigues, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad, Stephanie Lo, Aduragbemi Adesina, Brian Alcock
+**Jane Hawkey/Kat Holt**, Andrew McArthur, Finlay Maguire, Brody Duncan, Leonid Chindelevitch, Kara Tsang, Amogelang Raphenya, Dag Harmsen, Emily Bordeleau, Romain Pogorelcnik, Yu Wan, Zoe Dyson, Bogdan Iorga, John Rossen, Silvia Argimón, Charlene Rodrigues, Nick Duggett, Louise Teixeira Cerdeira, Matthijs Berends, Adrian Egli, João Perdigão, Tiffany Ta, Karyn Mukiri, Chiara Crestani, Jalees Nasir, Arjun Prasad, Stephanie Lo, Aduragbemi Adesina, Brian Alcock
 
 ### *Enterococcus*
 **Francesc Coll**, Ana R. Freitas, Precious Osadebamwen, Theo Gouliouris, Valeria Bortolaia, Helena Seth-Smith
@@ -29,7 +29,7 @@ toc: true
 *Kat Holt/Kara Tsang*, Adam Komorowski, Ørjan Samuelsen, Sally Partridge, Sandra Reuter, Richard Goodman, Teresa Coque, Bogdan Iorga, Clement Tsui, Margaret Lam, Priyanka Khopkar-Kale, Varun Shamanna, Sam Lipworth, Deepali Desai, Luis Gustavo Carvalho Pacheco, Iren Høyland Löhr, Daniela M Cirillo, Adrian Egli, Francesca Saluzzo, Nicholas Feasey, João Perdigão, Timothy Walsh, Kelly Wyres, Vera Manageiro, Louise Teixeira-Cerdeira, David Wareham, Rafael Cantón, Ramon Maluping, Vindana Chibabhai +[KlebNet Geno/Pheno Consortium](https://klebnet.org/amrgenopheno/)
 
 ### *Escherichia coli/Shigella* 
-**Ebenezer Foster-Nyarko/Kat Holt** Pieter-Jan Ceyssens, Carolina Silva Nodari, Soe Yu Naing, Richard Goodman, Elena Martinez, Teresa Coque, Ramon Maluping, Gültekin Ünal, Bogdan Iorga, Sally Partridge, Sam Lipworth, Adrian Egli, Timothy Walsh, Vera Manageiro, Benjamin Parcell, Rafael Cantón, Zoe Dyson, Caroline Maluleka
+**Ebenezer Foster-Nyarko/Kat Holt** Pieter-Jan Ceyssens, Carolina Silva Nodari, Soe Yu Naing, Richard Goodman, Elena Martinez, Teresa Coque, Ramon Maluping, Gültekin Ünal, Bogdan Iorga, Sally Partridge, Sam Lipworth, Adrian Egli, Timothy Walsh, Vera Manageiro, Benjamin Parcell, Rafael Cantón, Zoe Dyson, Caroline Maluleka, Silvia Argimón
 
 ### *Salmonella enterica* 
 **Zoe Dyson**, Pieter-Jan Ceyssans, Anthony Smith, Gültekin Ünal, Varun Shamanna, Assaf Rokney, Malgorzata Ligowska-Marzeta, Ramon Maluping, Alexander Moura, Nicholas Duggett
