@@ -38,7 +38,7 @@ Additional requests to join ESGEM-AMR will be considered periodically. You may r
 * Preprint: Holt et al, 2026, [DOI: 10.64898/2026.05.01.722195v1](https://www.biorxiv.org/content/10.64898/2026.05.01.722195v1)
 
 **A call for sharing phenotypic antimicrobial susceptibility data alongside bacterial genome sequence data in public archives**
-* Preprint: Holt et al, 2026 [DOI: 10.5281/zenodo.21488150](https://doi.org/10.5281/zenodo.21488150)
+* Article: [Holt et al, 2026. *npj Antimicrobials & Resistance*](https://doi.org/10.1038/s44259-026-00278-5)
 
 ### Partners
 
