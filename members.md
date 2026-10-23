@@ -35,7 +35,7 @@ toc: true
 **Zoe Dyson**, Pieter-Jan Ceyssans, Anthony Smith, Gültekin Ünal, Varun Shamanna, Assaf Rokney, Malgorzata Ligowska-Marzeta, Ramon Maluping, Alexander Moura, Nicholas Duggett
 
 ### *Neisseria gonorrhoeae*
-**Leonor Sanchez Buso**, Sheeba Manoharan-Basil, Martin McHugh, Tatum Mortimer, Anna Roditscheff, Faina Wehrli, Adam Witney, Raffael Frei, Daniel Golparian, Magnus Unemo, Amogelang Raphenya
+**Leonor Sanchez Buso**, Sheeba Manoharan-Basil, Martin McHugh, Tatum Mortimer, Anna Roditscheff, Faina Wehrli, Adam Witney, Raffael Frei, Daniel Golparian, Magnus Unemo, Amogelang Raphenya, Yonatan Grad
 
 ### *Mycobacterium tuberculosis*
 **Leonid Chindelevitch**, Philip Fowler, Priyanka Khopkar-Kale, Conor Meehan, Brian Alcock, Francesca Saluzzo, João Perdigão, Dylan Adlard, Margo Diricks, Deepali Desai
